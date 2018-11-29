@@ -1,0 +1,16 @@
+PODS:
+  - SwiftyStarRatingView (1.0.4)
+
+DEPENDENCIES:
+  - SwiftyStarRatingView
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SwiftyStarRatingView
+
+SPEC CHECKSUMS:
+  SwiftyStarRatingView: a2b0057700e0adeb8e7442c55d99cb53b531d2f4
+
+PODFILE CHECKSUM: b3bd0f244453b14f0f63820f0ae4e009756376d5
+
+COCOAPODS: 1.5.0
